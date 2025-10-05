@@ -3,3 +3,7 @@ outs:
   size: 82
   hash: md5
   path: metrics.json
+
+meta:
+  version: v0.1
+  date: 02/10/2025
