@@ -3,3 +3,7 @@ outs:
   size: 1128
   hash: md5
   path: y_train_v2.npy
+
+meta:
+  version: v0.2
+  date: 02/10/2025
